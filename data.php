@@ -1,7 +1,7 @@
 <?php header('Content-Type: application/json');
 
 
-$servername = 'TO DO 1inventory-db-instance-1';
+$servername = 'inventory-db-instance-1';
 $username = 'master';
 $password = 'lab-password';
 $database = 'inventory';
